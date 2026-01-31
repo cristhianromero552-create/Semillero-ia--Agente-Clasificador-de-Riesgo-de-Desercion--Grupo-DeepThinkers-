@@ -42,7 +42,6 @@ Nuestro agente es una solución integral de retención que utiliza **LLMs (Large
 ---
 
 ### 🎥 Video de Presentación y Demo
-Haz clic en la imagen o en el enlace de abajo para ver nuestra explicación técnica y la demostración del agente en tiempo real:
+Haz clic en el enlace de abajo para ver nuestra explicación técnica y la demostración del agente en tiempo real:
 
 
-> [Link al Video (YouTube o Google Drive)]
