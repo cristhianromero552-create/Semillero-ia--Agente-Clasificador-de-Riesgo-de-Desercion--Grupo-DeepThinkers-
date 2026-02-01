@@ -33,7 +33,7 @@ Nuestro agente es una solución integral de retención que utiliza **LLMs (Large
 ---
 
 ### 🏗️ Arquitectura Técnica
-* **Modelo:** Google Gemini 1.5 Flash.
+* **Modelo:** Google Gemini 2.5 Flash.
 * **Orquestador:** LangChain.
 * **Base de Datos Vectorial:** ChromaDB para el almacenamiento de manuales técnicos.
 * **Interfaz:** Gradio.
