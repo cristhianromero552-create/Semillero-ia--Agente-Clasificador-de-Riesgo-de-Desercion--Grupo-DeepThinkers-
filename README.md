@@ -42,5 +42,7 @@ Nuestro agente es una solución integral de retención que utiliza **LLMs (Large
 ---
 
 ### 🎥 Video de Presentación 
-Haz clic en el enlace de abajo para ver nuestra explicación técnica y la demostración del agente en tiempo real:
+Haz clic en eel icono para ver nuestra explicación técnica y la demostración del agente en tiempo real:
+
+
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/DOuBHzkfDtI)
